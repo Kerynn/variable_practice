@@ -8,3 +8,6 @@ work_assignments = 8
 dog_fee = 20.00
 amount_owed = 100.50
 paid = 35.00
+portland_resident = true
+best_dog = true
+owns_house = false
